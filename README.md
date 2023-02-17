@@ -1,5 +1,6 @@
 # numericalAnalysis
 Codes of lesson of numerical analysis in winter and spring of 2023.
+All the exercises are there and in this order that I write here.
 
 # Newton
 This code calculate the answer of some equations that is hard to find its exact value.
@@ -15,4 +16,4 @@ This code calculate the integral of some function that is hard to calculate its 
 In this code I calculate the real answer of difference of function sin(3x) and its approximate value and plot table and chart to show that if we choose a small h we can find its approximate answer so close to real answer.
 
 # Equation
-In this code I solve the system of equation for answer one Differential equation that is unanswerable
+In this code I solve the system of equation for answer one Differential equation that is unanswerable.
