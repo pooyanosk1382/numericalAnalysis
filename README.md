@@ -20,4 +20,9 @@ In this code I solve the system of equation for answer one Differential equation
 
 # Sympy Assignment
 This file is a set of 5 problem about sympy library.
+
 __Problem 1:__ Finding derivative of functions by sympy.
+
+__Problem 2:__ Finding the indefinite integral.
+
+__Problem 3:__ Solve equations.
