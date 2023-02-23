@@ -17,3 +17,5 @@ In this code I calculate the real answer of difference of function sin(3x) and i
 
 # Equation
 In this code I solve the system of equation for answer one Differential equation that is unanswerable.
+
+# Sympy Assigment
