@@ -19,7 +19,7 @@ In this code I calculate the real answer of difference of function sin(3x) and i
 In this code I solve the system of equation for answer one Differential equation that is unanswerable.
 
 # Sympy Assignment
-This file is a set of 5 problem about sympy library.
+This file is a set of 5 problems about sympy library.
 
 __Problem 1:__ Finding derivative of functions by sympy.
 
@@ -32,3 +32,10 @@ __Problem 4:__ Finding 10 terms of Fourier series.
 __Problem 5:__ Find velocity and acceleration from function $x = 3sin(t) - 4sin(2t)$
 
 # Numpy and Pandas
+This file is a set of 3 problems about numpy and pandas.
+
+__Problem 1:__ Numpy tasks
+
+__Problem 2:__ Pandas tasks
+
+__Problem 3:__ Bonus task
