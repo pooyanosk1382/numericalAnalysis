@@ -30,3 +30,5 @@ __Problem 3:__ Solve equations.
 __Problem 4:__ Finding 10 terms of Fourier series.
 
 __Problem 5:__ Find velocity and acceleration from function $x = 3sin(t) - 4sin(2t)$
+
+# Numpy and Pandas
