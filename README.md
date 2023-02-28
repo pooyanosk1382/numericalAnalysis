@@ -64,4 +64,4 @@ In this file we plot taylor's and real functions of $\sin(x)$ and $\cos(x)$.
 # Fourier
 A Fourier series is an expansion of a periodic function into a sum of trigonometric functions. The Fourier series is an example of a trigonometric series, but not all trigonometric series are Fourier series. By expressing a function as a sum of sines and cosines, many problems involving the function become easier to analyze because trigonometric functions are well understood.
 
-In this file we plot Fourier series and origin function of $\x^3$.
+In this file we plot Fourier series and origin function of $x^3$.
