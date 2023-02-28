@@ -55,3 +55,8 @@ __Problem 1:__ Numpy tasks
 __Problem 2:__ Pandas tasks
 
 __Problem 3:__ Bonus task
+
+# Taylor
+In mathematics, the Taylor series or Taylor expansion of a function is an infinite sum of terms that are expressed in terms of the function's derivatives at a single point. For most common functions, the function and the sum of its Taylor series are equal near this point.
+
+In this file we plot taylor's and real functions of $\sin(x)$ and $\cos(x)$.
