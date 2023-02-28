@@ -44,6 +44,8 @@ __Problem 4:__ Finding 10 terms of Fourier series.
 __Problem 5:__ Find velocity and acceleration from function $x = 3sin(t) - 4sin(2t)$
 
 # Numpy and Pandas
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.[
+
 This file is a set of 3 problems about numpy and pandas.
 
 __Problem 1:__ Numpy tasks
