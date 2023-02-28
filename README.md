@@ -3,6 +3,16 @@ Codes of lesson of numerical analysis in winter and spring of 2023.
 All the exercises are there and in this order that I write here.
 
 # Newton
+In numerical analysis, Newton's method, also known as the Newton–Raphson method, named after Isaac Newton and Joseph Raphson, is a root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function. The most basic version starts with a single-variable function f defined for a real variable x, the function's derivative f′, and an initial guess x0 for a root of f. If the function satisfies sufficient assumptions and the initial guess is close, then
+
+    $x1 = x0 − f(x0)/f′(x0)$
+
+is a better approximation of the root than x0. Geometrically, (x1, 0) is the intersection of the x-axis and the tangent of the graph of f at (x0, f(x0)): that is, the improved guess is the unique root of the linear approximation at the initial point. The process is repeated as
+
+    $xn + 1 = xn − f(xn)/f′(xn)$
+
+until a sufficiently precise value is reached. The number of correct digits roughly doubles with each step. This algorithm is first in the class of Householder's methods, succeeded by Halley's method. The method can also be extended to complex functions and to systems of equations. 
+
 This code calculate the answer of some equations that is hard to find its exact value.
 
 # Dollar Price
