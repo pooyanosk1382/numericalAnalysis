@@ -29,6 +29,8 @@ In this code I calculate the real answer of difference of function sin(3x) and i
 In this code I solve the system of equation for answer one Differential equation that is unanswerable.
 
 # Sympy Assignment
+SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python. 
+
 This file is a set of 5 problems about sympy library.
 
 __Problem 1:__ Finding derivative of functions by sympy.
