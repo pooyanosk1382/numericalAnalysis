@@ -60,3 +60,8 @@ __Problem 3:__ Bonus task
 In mathematics, the Taylor series or Taylor expansion of a function is an infinite sum of terms that are expressed in terms of the function's derivatives at a single point. For most common functions, the function and the sum of its Taylor series are equal near this point.
 
 In this file we plot taylor's and real functions of $\sin(x)$ and $\cos(x)$.
+
+# Fourier
+A Fourier series is an expansion of a periodic function into a sum of trigonometric functions. The Fourier series is an example of a trigonometric series, but not all trigonometric series are Fourier series. By expressing a function as a sum of sines and cosines, many problems involving the function become easier to analyze because trigonometric functions are well understood.
+
+In this file we plot Fourier series and origin function of $\x^3$.
