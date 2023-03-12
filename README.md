@@ -9,7 +9,7 @@ $x1 = x0 - \frac{f(x0)}{f'(x0)}$
 
 is a better approximation of the root than x0. Geometrically, (x1, 0) is the intersection of the x-axis and the tangent of the graph of f at (x0, f(x0)): that is, the improved guess is the unique root of the linear approximation at the initial point. The process is repeated as
 
-$xn + 1 = xn − f(xn)/f′(xn)$
+$xn + 1 = xn − \frac{f(xn)}{f′(xn)}$
 
 until a sufficiently precise value is reached. The number of correct digits roughly doubles with each step. This algorithm is first in the class of Householder's methods, succeeded by Halley's method. The method can also be extended to complex functions and to systems of equations. 
 
