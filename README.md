@@ -70,3 +70,4 @@ In this file we plot Fourier series and origin function of $x^3$.
 There are three main sources of errors in numerical computation: __rounding, data uncertainty, and truncation__. Rounding errors, also called arithmetic errors, are an unavoidable consequence of working in finite precision arithmetic.
 
 # Condition Numbers
+In numerical analysis, the condition number of a function measures how much the output value of the function can change for a small change in the input argument. This is used to measure how sensitive a function is to changes or errors in the input, and how much error in the output results from an error in the input. 
