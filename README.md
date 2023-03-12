@@ -68,3 +68,5 @@ In this file we plot Fourier series and origin function of $x^3$.
 
 # Error
 There are three main sources of errors in numerical computation: __rounding, data uncertainty, and truncation__. Rounding errors, also called arithmetic errors, are an unavoidable consequence of working in finite precision arithmetic.
+
+# Condition Numbers
