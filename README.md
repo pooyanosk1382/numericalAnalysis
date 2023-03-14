@@ -3,13 +3,13 @@ Codes of lesson of numerical analysis in winter and spring of 2023.
 All the exercises are there and in this order that I write here.
 
 # Newton
-In numerical analysis, Newton's method, also known as the Newton–Raphson method, named after Isaac Newton and Joseph Raphson, is a root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function. The most basic version starts with a single-variable function f defined for a real variable x, the function's derivative f′, and an initial guess x0 for a root of f. If the function satisfies sufficient assumptions and the initial guess is close, then
+In numerical analysis, Newton's method, also known as the Newton–Raphson method, named after Isaac Newton and Joseph Raphson, is a root-finding algorithm which produces successively better approximations to the roots (or zeroes) of a real-valued function. The most basic version starts with a single-variable function f defined for a real variable X, the function's derivative f′, and an initial guess X0 for a root of f. If the function satisfies sufficient assumptions and the initial guess is close, then
 
-$x1 = x0 - f(x0)/f'(x0)$
+$X1 = X0 - \frac{f(X0)}{f'(X0)}$
 
-is a better approximation of the root than x0. Geometrically, (x1, 0) is the intersection of the x-axis and the tangent of the graph of f at (x0, f(x0)): that is, the improved guess is the unique root of the linear approximation at the initial point. The process is repeated as
+is a better approximation of the root than X0. Geometrically, (X1, 0) is the intersection of the x-axis and the tangent of the graph of f at (X0, f(X0)): that is, the improved guess is the unique root of the linear approximation at the initial point. The process is repeated as
 
-$xn + 1 = xn − f(xn)/f′(xn)$
+$Xn + 1 = Xn − \frac{f(Xn)}{f′(Xn)}$
 
 until a sufficiently precise value is reached. The number of correct digits roughly doubles with each step. This algorithm is first in the class of Householder's methods, succeeded by Halley's method. The method can also be extended to complex functions and to systems of equations. 
 
@@ -68,3 +68,6 @@ In this file we plot Fourier series and origin function of $x^3$.
 
 # Error
 There are three main sources of errors in numerical computation: __rounding, data uncertainty, and truncation__. Rounding errors, also called arithmetic errors, are an unavoidable consequence of working in finite precision arithmetic.
+
+# Condition Numbers
+In numerical analysis, the condition number of a function measures how much the output value of the function can change for a small change in the input argument. This is used to measure how sensitive a function is to changes or errors in the input, and how much error in the output results from an error in the input. 
