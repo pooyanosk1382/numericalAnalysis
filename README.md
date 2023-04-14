@@ -83,3 +83,7 @@ __The false position__ method is one of the iterative methods of finding the roo
 Calculate the value of $\int_{0}^1 x^ne^xdx$ with recursive function, and see our function don't get close to 0 by growing n.
 
 # Stability
+Calculate the 15 sequence sentences by these two algorithms.
+__1. $Xn+1 = 13/3 Xn - 4/3 Xn-1$__
+__2. $Xn = (1/3)^n$__
+Because the first algorithm is not stable so, we can see that the answer is not same but if we simplify that we see both of them must have same value.
