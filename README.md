@@ -82,4 +82,4 @@ __The false position__ method is one of the iterative methods of finding the roo
 # Recursive
 Calculate the value of $\int_{0}^1 x^ne^xdx$ with recursive function, and see our function don't get close to 0 by growing n.
 
-# Staibility
+# Stability
