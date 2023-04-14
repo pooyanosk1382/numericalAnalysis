@@ -75,3 +75,4 @@ In numerical analysis, the condition number of a function measures how much the 
 # Solver
 In this file we work on __Bisection__ and __False Point__.
 ### Bisection
+In geometry, __bisection__ is the division of something into two equal or congruent parts (having the same shape and size). Usually it involves a bisecting line, also called a __bisector__.
