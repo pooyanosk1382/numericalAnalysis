@@ -71,3 +71,7 @@ There are three main sources of errors in numerical computation: __rounding, dat
 
 # Condition Numbers
 In numerical analysis, the condition number of a function measures how much the output value of the function can change for a small change in the input argument. This is used to measure how sensitive a function is to changes or errors in the input, and how much error in the output results from an error in the input. 
+
+# Solver
+In this file we work on __Bisection__ and __False Point__.
+### Bisection
