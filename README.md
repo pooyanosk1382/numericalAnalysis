@@ -76,3 +76,5 @@ In numerical analysis, the condition number of a function measures how much the 
 In this file we work on __Bisection__ and __False Point__.
 ### Bisection
 In geometry, __bisection__ is the division of something into two equal or congruent parts (having the same shape and size). Usually it involves a bisecting line, also called a __bisector__.
+### False Point
+__The false position__ method is one of the iterative methods of finding the roots of a __non-linear__ equation of the form f(x) = 0. This method provides us with a better approximation of the roots of the equation.
