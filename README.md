@@ -71,3 +71,13 @@ There are three main sources of errors in numerical computation: __rounding, dat
 
 # Condition Numbers
 In numerical analysis, the condition number of a function measures how much the output value of the function can change for a small change in the input argument. This is used to measure how sensitive a function is to changes or errors in the input, and how much error in the output results from an error in the input. 
+
+# Solver
+In this file we work on __Bisection__ and __False Point__.
+### Bisection
+In geometry, __bisection__ is the division of something into two equal or congruent parts (having the same shape and size). Usually it involves a bisecting line, also called a __bisector__.
+### False Point
+__The false position__ method is one of the iterative methods of finding the roots of a __non-linear__ equation of the form f(x) = 0. This method provides us with a better approximation of the roots of the equation.
+
+# Recursive
+Calculate the value of $\int_{0}^1 x^ne^xdx$ with recursive function, and see our function don't get close to 0 by growing n.
